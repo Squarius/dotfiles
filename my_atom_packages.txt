@@ -1,0 +1,10 @@
+atom-alignment@0.12.1
+atom-beautify@0.28.7
+emmet@2.3.12
+file-icons@1.5.8
+less-autocompile@1.0.0
+linter@1.2.4
+linter-less@2.0.3
+minimap@4.11.2
+pigments@0.8.4
+todo-show@0.13.0
