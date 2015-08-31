@@ -10,9 +10,9 @@ Then you use these commands:
 ```
 cd ~/.atom
 
-mkdir ~/repo/.atom -p
+mkdir ~/repo/dotfiles/.atom -p
 
-for file in "init.coffee keymap.cson snippets.cson styles.less"; do ln -s $file ~/repo/.atom/; done
+for file in "init.coffee keymap.cson snippets.cson styles.less"; do ln -s $file ~/repo/dotfiles/.atom/; done
 ```
 Source: http://www.atomtips.com/how-to-synchronize-atom-between-computers/
 
