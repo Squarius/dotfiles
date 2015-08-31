@@ -23,12 +23,12 @@ Source: http://www.atomtips.com/how-to-synchronize-atom-between-computers/
 ### Export/Import Installed Packages in Atom
 Export:
 ```
-apm list --installed --bare > my_atom_packages.txt
+apm list --installed --bare > ~/repo/dotfiles/my_atom_packages.txt
 ```
 
 Import:
 ```
-apm install --packages-file my_atom_packages.txt
+apm install --packages-file ~/repo/dotfiles/my_atom_packages.txt
 ```
 
 Source: https://discuss.atom.io/t/installed-packages-list-into-single-file/12227
