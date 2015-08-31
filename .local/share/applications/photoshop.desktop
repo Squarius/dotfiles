@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+# Change your username in line 7 + 8
+
+[Desktop Entry]
+Version=1.0
+Name=Photoshop
+Exec=/home/squarius/.customstuff/photoshop.sh
+Icon=/home/squarius/.local/share/icons/custom/Adobe_Photoshop_CS6_icon.svg
+Type=Application
+StartupWMClass=VirtualBox
+Categories=Development;Office;
+
